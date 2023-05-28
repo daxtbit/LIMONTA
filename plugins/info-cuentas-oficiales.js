@@ -14,7 +14,7 @@ let str = `💙 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝘼𝙎
 *https://chat.whatsapp.com/I6VH8LYcQwe8e1rj06BBBF*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✅ *GRUPOS DE VENTAS CHARLIE X ALEXA*
-*${fb}*
+*https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Si tienen dudas, sugerencias, o preguntas solo escriban por Instagram.*\n
 *If you have doubts, suggestions or questions just write on Instagram.*`
