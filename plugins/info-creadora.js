@@ -23,8 +23,8 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `𝘾𝙝𝙖𝙧𝙡𝙞𝙚-𝙈𝘿 🤖
 *Wa.me/51994156047*
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 💖🐈
-*wa.me/593993684821*
+*Colaboradora alexa-MD (Gobernada)*
+*wa.me/51903087014*
 
 𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 *2* 💖🐈
 *wa.me/573136855110*
