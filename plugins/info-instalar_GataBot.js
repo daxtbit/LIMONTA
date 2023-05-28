@@ -15,7 +15,7 @@ const fkontak = {
 }
 
 let picture = './media/menus/Menu1.jpg'
-let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 🐈
+let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝘾𝙝𝙖𝙧𝙡𝙞𝙚-𝙈𝘿 🤖
 
 
 
@@ -28,8 +28,7 @@ pkg upgrade
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/GataNina-Li/GataBot-MD
-cd GataBot-MD
+git clone https://github.com/Emergit2006/Charlie-G
 npm install
 npm update
 npm start
