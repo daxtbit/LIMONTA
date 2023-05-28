@@ -10,10 +10,10 @@ let str = `💙 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝘼𝙎
 ✅ *INSTAGRAM - ASISTENCIA*
 *${ig}*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *YOUTUBE*
-*${yt}*
+✅ *GRUPOS DE VENTAS CHARLIEYEMI<3*
+*https://chat.whatsapp.com/I6VH8LYcQwe8e1rj06BBBF*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *FACEBOOK*
+✅ *GRUPOS DE VENTAS CHARLIE X ALEXA*
 *${fb}*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Si tienen dudas, sugerencias, o preguntas solo escriban por Instagram.*\n
