@@ -31,9 +31,9 @@ let teksbio = `𝘾𝙝𝙖𝙧𝙡𝙞𝙚-𝙈𝘿 🤖
 *---------------------*
 
 *Ventas De Bot Charlie*
-*centergatabot@gmail.com*
+*https://chat.whatsapp.com/I6VH8LYcQwe8e1rj06BBBF*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝘾𝙝𝙖𝙧𝙡𝙞𝙚 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
 const sections = [
