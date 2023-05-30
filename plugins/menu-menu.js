@@ -102,14 +102,14 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
 *╭━〔 INFORMACIÓN DE CHARLIEBOT 〕⬣*
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
+┃💫➺ _${usedPrefix}cuentasCharlie-MD | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
 ┃💫➺ _${usedPrefix}listagrupos | grouplist_
 ┃💫➺ _${usedPrefix}estado | heygata | status_
-┃💫➺ _${usedPrefix}infogata | infobot_
+┃💫➺ _${usedPrefix}infoCharlie | infobot_
 ┃💫➺ _${usedPrefix}instalarbot | installbot_
-┃💫➺ _${usedPrefix}creadora | owner_
+┃💫➺ _${usedPrefix}creador | owner_
 ┃💫➺ _${usedPrefix}velocidad | ping_
 ┃💫➺ _Bot_ 
 ┃💫➺ _términos y condiciones_
