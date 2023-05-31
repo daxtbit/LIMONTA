@@ -15,7 +15,7 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
 if (/^destruirbot|autodestruirbot$/i.test(m.text) ) { //sem prefixo
     let teks = `
-${pickRandom([`Mi Creadora me trata muy mal 😭`])}
+${pickRandom([`Mi Creador me trata muy mal 😭`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
@@ -35,7 +35,7 @@ if (/^reglas|normas|Reglas$/i.test(m.text) ) { //sem prefixo
 ➽❌ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐒𝐩𝐚𝐦 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐍𝐨 𝐚𝐠𝐫𝐞𝐠𝐚𝐫 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚 𝐥𝐨𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐲 𝐜𝐨𝐧𝐝𝐢𝐜𝐢𝐨𝐧𝐞𝐬
-*╰═┅ৡৢ͜͡✦═╡ 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ╞═┅ৡৢ͜͡✦═╯*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+*╰═┅Charlie-MD*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
@@ -52,7 +52,7 @@ if (/^¿que es un bot?|Que es un bot$/i.test(m.text) ) { //sem prefixo
 ┆ 𝐧𝐨 𝐢𝐧𝐭𝐞𝐫𝐟𝐢𝐞𝐫𝐞 𝐞𝐧 𝐞𝐥 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 
 ┆ 𝐏𝐚𝐫𝐚 𝐯𝐞𝐫 𝐞𝐥 𝐦𝐞𝐧𝐮́ 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬 𝐩𝐮𝐞𝐝𝐞𝐬 𝐮𝐬𝐚𝐫 #menu
 ┆ 
-┆ 「 🅖🅐🅣🅐🅑🅞🅣-🅜🅓 」
+┆ 「 Charlie-MD 」
 ╰━━━⊰ 𓃠 ${vs} ⊱━━━━დ*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }  
