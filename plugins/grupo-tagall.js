@@ -6,7 +6,7 @@ throw false
 let vn = './media/Invocar.mp3'
 let pesan = args.join` `
 let oi = `*LIMONCITABB* ${pesan}`
-let teks = `〔 *${wm}* 〕\n *𝘥𝘢𝘹𝘵 𝘪𝘯𝘷𝘰𝘤𝘢 𝘢 𝘱𝘭𝘢𝘯𝘵𝘢𝘴* \n\n ${oi}\n\n *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
+let teks = `〔 *${wm}* 〕\n *𝘥𝘢𝘹𝘵 𝘪𝘯𝘷𝘰𝘤𝘢 𝘢 𝘱𝘭𝘢𝘯𝘵𝘢𝘴* \n\n ${oi}\n\n *𝙙𝙖𝙭𝙩 𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖:*\n`
 for (let mem of participants) {
 teks += `🦦 @${mem.id.split('@')[0]}\n`}
 teks += `└ @daxtbl\n\n*<3*`
